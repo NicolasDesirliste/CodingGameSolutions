@@ -34,5 +34,6 @@ while (true) // while (true) - Boucle infinie pour les tours de jeu successifs.
     console.log(maxIndex);     // The index of the mountain to fire on.
     // console.log(maxIndex); - Affiche l'index trouvé dans la console. 
 
+
 } 
 
